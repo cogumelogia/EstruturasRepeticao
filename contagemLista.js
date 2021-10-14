@@ -1,3 +1,6 @@
+/// Exercício de Lógica de Programação do curso Dev Full Stack Senai São Paulo
+/// Cauê Oliveira 13 out 2021
+
 let numeroAlunos = 10; ///Dando número de alunos em uma lista
 
 let listaAlunos = ["Mario", "Luigi", "Peach", "Daisy", "Bowser", "Toad", "Yoshi", "Rosalina", "Wario", "Waluigi"] ///lista de alunos
@@ -11,3 +14,4 @@ for (let i = 0; i < 10; i++){
         console.log (`${i} : PAR : ${listaAlunos[i]}`)
     }
 }
+
